@@ -1,2 +1,2 @@
 ## PR STATUS
-** to do | in progress | done **
+**TO-DO | IN PROGRESS | DONE**
